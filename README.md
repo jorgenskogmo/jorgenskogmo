@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I’m currently working on: 
+
+🌱 LEGO Klik Design System
+
+
+Previously:
+
+`2021` 📦 Google I/O  
+`2020` 📦 LEGO Education Spike Prime Essentials
+
+
 <!--
 **jorgenskogmo/jorgenskogmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
