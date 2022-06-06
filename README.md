@@ -2,11 +2,11 @@
 
 I’m currently working on: 
 
-🌱 LEGO Klik Design System
+🌱 LEGO Design System
 
 
 Previously:
-
+`2021` 📦 LEGO Klik Design System
 `2021` 📦 Google I/O  
 `2020` 📦 LEGO Education Spike Prime Essentials
 
