@@ -6,9 +6,9 @@ I’m currently working on:
 
 
 Previously:
-`2021` 📦 LEGO Klik Design System
+`2021` 📦 LEGO Klik Design System  
 `2021` 📦 Google I/O  
-`2020` 📦 LEGO Education Spike Prime Essentials
+`2020` 📦 LEGO Education Spike Prime Essentials  
 
 
 <!--
