@@ -2,10 +2,13 @@
 
 I’m currently working on: 
 
-🌱 LEGO Design System
-
+🔭 Two new Web3 projects
+🌱 Frontend Engineering for Jysk
 
 Previously:  
+
+`2022` 📦 LEGO Design System
+
 `2021` 📦 LEGO Klik Design System
 
 `2021` 📦 Google I/O
