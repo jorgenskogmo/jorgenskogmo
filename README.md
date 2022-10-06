@@ -2,9 +2,10 @@
 
 I’m currently working on: 
 
-🔭 Two new Web3 projects
+🔭 Two new Web3 projects and 🌱 Frontend Engineering for Jysk
 
-🌱 Frontend Engineering for Jysk
+  
+    
 
 Previously:  
 
