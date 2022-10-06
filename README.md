@@ -3,6 +3,7 @@
 I’m currently working on: 
 
 🔭 Two new Web3 projects
+
 🌱 Frontend Engineering for Jysk
 
 Previously:  
