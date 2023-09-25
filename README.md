@@ -9,6 +9,10 @@ I’m currently working on:
 
 Previously:  
 
+`2023` 📦 LEGO Creative Play Lab
+
+`2022` 📦 JYSK Webshop Architecture
+
 `2022` 📦 LEGO Design System
 
 `2021` 📦 LEGO Klik Design System
