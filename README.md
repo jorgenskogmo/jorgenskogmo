@@ -2,7 +2,7 @@
 
 I’m currently working on: 
 
-🔭 Two new Web3 projects and 🌱 Frontend Engineering for Jysk
+🔭 Two new Web3 projects and 🌱 LEGO Agency, MasterBrand
 
   
     
