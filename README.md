@@ -2,14 +2,15 @@
 
 I’m currently working on: 
 
-🔭 Two new Web3 projects and 🌱 LEGO Agency, MasterBrand
-
+🌱 LEGO Creative Play Lab / Play Innovation Hardware
   
     
 
 Previously:  
 
 `2023` 📦 LEGO Creative Play Lab
+
+`2023` 📦 LEGO Agency, MasterBrand
 
 `2022` 📦 JYSK Webshop Architecture
 
